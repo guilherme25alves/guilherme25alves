@@ -1,4 +1,3 @@
-
 <h3 align="center"> Olá 👋, meu nome é Guilherme! Seja bem-vindo! </h3>
 
 <p align="center">
@@ -26,4 +25,8 @@ Desenvolvedor Full Stack que não se limita a uma única linguagem, mas as utili
 <a href = "mailto:guilhermealves2596@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 <a href="https://instagram.com/alv3sguii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/guilherme25alves/guilherme25alves/blob/output/github-contribution-grid-snake.svg" />
 </div>
