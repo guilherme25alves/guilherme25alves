@@ -86,7 +86,3 @@ Desenvolvedor Full Stack que não se limita a uma única linguagem, mas as utili
 <a href="https://instagram.com/alv3sguii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guilherme25alves/guilherme25alves/output/snake.svg" alt="Snake animation" />
-</div>
